@@ -1,0 +1,2 @@
+{:deps {org.projog/projog-core {:mvn/version "0.10.0"}}
+ :paths ["src" "resources"]}
